@@ -284,7 +284,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       list-max-height='320px'
       server='netease'
       type='playlist'
-      id='3175833810'
+      id='633400201'
       list-folded='true'>
     </meting-js>
   
@@ -678,15 +678,17 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   <div class='top'>
     
     
-      <p class="title">Volantis</p>
+      <p class="title">Rnazoroのblog</p>
     
+    
+      <p class="subtitle">热爱可抵岁月漫长</p>
     
   </div>
   <div class='bottom'>
     
       <div class="m_search">
         <form name="searchform" class="form u-search-form">
-          <input type="text" class="input u-search-input" placeholder="A Wonderful Theme for Hexo" />
+          <input type="text" class="input u-search-input" placeholder="" />
           <i class="icon fas fa-search fa-fw"></i>
         </form>
       </div>
@@ -695,46 +697,32 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       <div class='list-h'>
         
           
-            <a href="/v4/getting-started/"
+            <a href="/"
               
               
-              id="v4getting-started">
-              <p>文档</p>
-            </a>
-          
-            <a href="/faqs/"
-              
-              
-              id="faqs">
-              <p>帮助</p>
-            </a>
-          
-            <a href="/examples/"
-              
-              
-              id="examples">
-              <p>示例</p>
-            </a>
-          
-            <a href="/contributors/"
-              
-              
-              id="contributors">
-              <p>社区</p>
+              id="home">
+              <i class='fas fa-rss fa-fw'></i><p>博文</p>
             </a>
           
             <a href="/archives/"
               
               
               id="archives">
-              <p>博客</p>
+              <i class='fas fa-archive fa-fw'></i><p>归档</p>
             </a>
           
-            <a href="https://github.com/volantis-x/hexo-theme-volantis/"
+            <a href="/"
               
               
-              id="https:githubcomvolantis-xhexo-theme-volantis">
-              <p>源码</p>
+              id="home">
+              <i class='fas fa-book fa-fw'></i><p>文档</p>
+            </a>
+          
+            <a href="/about/"
+              
+              
+              id="about">
+              <i class='fas fa-info-circle fa-fw'></i><p>关于</p>
             </a>
           
         
@@ -825,7 +813,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   
   
   <p>用Sql获取操作的数据库名,计算机名,用户名,网卡物理地址,IP地址,程序名
-<img src="/2020/04/15/SqlServer%E8%8E%B7%E5%8F%96%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BF%A1%E6%81%AF/20200522154113.png" class="lazyload" data-srcset="/2020/04/15/SqlServer%E8%8E%B7%E5%8F%96%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BF%A1%E6%81%AF/20200522154113.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt></p>
+<img src="/2020/04/15/SqlServer%E8%8E%B7%E5%8F%96%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BF%A1%E6%81%AF/20200522154113.png" class="lazyload" data-srcset="SqlServer%E8%8E%B7%E5%8F%96%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BF%A1%E6%81%AF/20200522154113.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt></p>
 <a id="more"></a>
 <h2 id="创建存储过程">创建存储过程</h2>
 <figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">create</span> proc p_getlinkinfo</span><br><span class="line"></span><br><span class="line">@dbname sysname=<span class="literal">null</span>,<span class="comment">--要查询的数据库名,默认查询所有数据库的连接信息</span></span><br><span class="line"></span><br><span class="line">@includeip <span class="built_in">bit</span>=<span class="number">0</span>     <span class="comment">--是否显示IP地址,因为查询IP地址比较费时,所以增加此控制</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">as</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">declare</span> @dbid <span class="built_in">int</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">set</span> @dbid=db_id(@dbname)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">create</span> <span class="keyword">table</span> <span class="comment">#tb(id int identity(1,1),dbname sysname,hostname </span></span><br><span class="line"><span class="keyword">nchar</span>(<span class="number">128</span>),loginname <span class="keyword">nchar</span>(<span class="number">128</span>),net_address <span class="keyword">nchar</span>(<span class="number">12</span>),net_ip </span><br><span class="line"><span class="keyword">nvarchar</span>(<span class="number">15</span>),prog_name <span class="keyword">nchar</span>(<span class="number">128</span>))</span><br><span class="line"></span><br><span class="line"><span class="keyword">insert</span> <span class="keyword">into</span> <span class="comment">#tb(hostname,dbname,net_address,loginname,prog_name)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">select</span> <span class="keyword">distinct</span> hostname,db_name(dbid),net_address,loginame,program_name </span><br><span class="line"><span class="keyword">from</span> master..sysprocesses</span><br><span class="line"></span><br><span class="line"><span class="keyword">where</span> hostname&lt;&gt;<span class="string">''</span> <span class="keyword">and</span> (@dbid <span class="keyword">is</span> <span class="literal">null</span> <span class="keyword">or</span> dbid=@dbid)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> @includeip=<span class="number">0</span> <span class="keyword">goto</span> lb_show  <span class="comment">--如果不显示IP地址,就直接显示</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">declare</span> @<span class="keyword">sql</span> <span class="built_in">varchar</span>(<span class="number">500</span>),@hostname <span class="keyword">nchar</span>(<span class="number">128</span>),@<span class="keyword">id</span> <span class="built_in">int</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">create</span> <span class="keyword">table</span> <span class="comment">#ip(hostname nchar(128),a varchar(200))</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">declare</span> tb <span class="keyword">cursor</span> <span class="keyword">local</span> <span class="keyword">for</span> <span class="keyword">select</span> <span class="keyword">distinct</span> hostname <span class="keyword">from</span> <span class="comment">#tb</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">open</span> tb</span><br><span class="line"></span><br><span class="line"><span class="keyword">fetch</span> <span class="keyword">next</span> <span class="keyword">from</span> tb <span class="keyword">into</span> @hostname</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> @@fetch_status=<span class="number">0</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">begin</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">set</span> @<span class="keyword">sql</span>=<span class="string">'ping '</span>+@hostname+<span class="string">' -a -n 1 -l 1'</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">insert</span> <span class="comment">#ip(a) exec master..xp_cmdshell @sql</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">update</span> <span class="comment">#ip set hostname=@hostname where hostname is null</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">fetch</span> <span class="keyword">next</span> <span class="keyword">from</span> tb <span class="keyword">into</span> @hostname</span><br><span class="line"></span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">update</span> <span class="comment">#tb set net_ip=left(a,patindex('%:%',a)-1)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> <span class="comment">#tb a inner join (</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">select</span> hostname,a=<span class="keyword">substring</span>(a,<span class="keyword">patindex</span>(<span class="string">'Ping statistics for </span></span><br><span class="line"><span class="string">%:%'</span>,a)+<span class="number">20</span>,<span class="number">20</span>) <span class="keyword">from</span> <span class="comment">#ip</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">where</span> a <span class="keyword">like</span> <span class="string">'Ping statistics for %:%'</span>) b <span class="keyword">on</span> a.hostname=b.hostname</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">lb_show:</span><br><span class="line"></span><br><span class="line"><span class="keyword">select</span> <span class="keyword">id</span>,数据库名=dbname,客户机名=hostname,用户名=loginname</span><br><span class="line">,网卡物理地址=net_address,IP地址=net_ip,应用程序名称=prog_name <span class="keyword">from</span> <span class="comment">#tb</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">GO</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">--显示所有本机的连接信息：</span></span><br><span class="line">exec p_getlinkinfo</span><br><span class="line"></span><br><span class="line"><span class="comment">--显示所有本机的连接信息,包含ip地址：</span></span><br><span class="line">exec p_getlinkinfo @includeip=<span class="number">1</span></span><br><span class="line"></span><br><span class="line"><span class="comment">--显示连接指定数据库的信息：</span></span><br><span class="line">exec p_getlinkinfo @dbname=数据库名,@includeip=<span class="number">1</span></span><br></pre></td></tr></table></figure>
@@ -1068,7 +1056,7 @@ python -m venv venv...</p>
       list-max-height='320px'
       server='netease'
       type='playlist'
-      id='3175833810'
+      id='633400201'
       list-folded='true'>
     </meting-js>
   
@@ -1419,7 +1407,7 @@ var loadCSS = function( href, before, media, attributes ){
 
   <script>
   let APlayerController = new Object();
-  APlayerController.id = '3175833810';  // 设定全局音乐播放ID
+  APlayerController.id = '633400201';  // 设定全局音乐播放ID
   APlayerController.volume = '0.7';
   loadCSS("https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css", window.volantis.loadcss);
   // APlayer 需要在  MetingJS 之前加载
@@ -1852,6 +1840,8 @@ volantis.pjax.send(()=>{
 
 
 
+
+<script src="//code.tidio.co/wsryhun2gmo2v2qdcyknfqufkutbdswi.js" async></script>
 
 
 <script>
