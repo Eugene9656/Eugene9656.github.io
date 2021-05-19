@@ -24,7 +24,7 @@
 
   <!-- 页面元数据 -->
   
-  <title>Tag: linux - Rnazoroのblog</title>
+  <title>标签：linux - Rnazoroのblog</title>
   
 
   
@@ -804,7 +804,7 @@ tab键: 自动补全
       
         <div>
           <a class='readmore' href='/2020/10/07/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%BF%E7%94%A8/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -849,7 +849,7 @@ tab键: 自动补全
       
         <div>
           <a class='readmore' href='/2020/09/01/Linux%E5%87%BA%E7%8E%B0Read-onlyFileSystem%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%96%B9%E6%B3%95/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -897,7 +897,7 @@ tab键: 自动补全
       
         <div>
           <a class='readmore' href='/2020/08/05/CentOS7%E5%AE%89%E8%A3%85MySql/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -1218,7 +1218,7 @@ tab键: 自动补全
       
     
       
-        <div><p>Blog content follows the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License</a></p>
+        <div><p>博客内容遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</a></p>
 </div>
       
     
@@ -1230,9 +1230,9 @@ tab键: 自动补全
       
     
       
-        Use
+        本站使用
         <a href="https://github.com/volantis-x/hexo-theme-volantis/tree/4.3.1" target="_blank" class="codename">Volantis</a>
-        as theme
+        作为主题
       
     
       
@@ -1770,7 +1770,7 @@ volantis.pjax.push(()=>{
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'http://norhub.xyz' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'http://norhub.com.cn' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -1788,7 +1788,7 @@ volantis.pjax.push(()=>{
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'http://norhub.xyz' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'http://norhub.com.cn' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -1810,7 +1810,7 @@ volantis.pjax.push(()=>{
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'http://norhub.xyz' + pv.getAttribute('data-path');
+          var url = 'http://norhub.com.cn' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增

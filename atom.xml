@@ -5,9 +5,9 @@
   <subtitle>热爱可抵岁月漫长</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://norhub.xyz/"/>
+  <link href="http://norhub.com.cn/"/>
   <updated>2021-05-13T02:03:30.541Z</updated>
-  <id>http://norhub.xyz/</id>
+  <id>http://norhub.com.cn/</id>
   
   <author>
     <name>Rnazoro</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>GIT的使用</title>
-    <link href="http://norhub.xyz/2021/05/13/GIT%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2021/05/13/GIT%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2021/05/13/GIT%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2021/05/13/GIT%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2021-05-13T02:02:42.000Z</published>
     <updated>2021-05-13T02:03:30.541Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Python3.6,7,8,9版本的新特性了解</title>
-    <link href="http://norhub.xyz/2020/11/27/Python3-6-7-8-9%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E4%BA%86%E8%A7%A3/"/>
-    <id>http://norhub.xyz/2020/11/27/Python3-6-7-8-9%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E4%BA%86%E8%A7%A3/</id>
+    <link href="http://norhub.com.cn/2020/11/27/Python3-6-7-8-9%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E4%BA%86%E8%A7%A3/"/>
+    <id>http://norhub.com.cn/2020/11/27/Python3-6-7-8-9%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E4%BA%86%E8%A7%A3/</id>
     <published>2020-11-27T06:12:26.000Z</published>
     <updated>2021-04-30T02:53:19.126Z</updated>
     
@@ -54,19 +54,19 @@
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Python" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
+      <category term="Python" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
     
     
-      <category term="python" scheme="http://norhub.xyz/tags/python/"/>
+      <category term="python" scheme="http://norhub.com.cn/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>HTML5加CSS3的使用</title>
-    <link href="http://norhub.xyz/2020/11/19/HTML5%E5%8A%A0CSS3%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/11/19/HTML5%E5%8A%A0CSS3%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/11/19/HTML5%E5%8A%A0CSS3%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/11/19/HTML5%E5%8A%A0CSS3%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2020-11-19T09:22:35.000Z</published>
     <updated>2021-05-13T01:58:35.036Z</updated>
     
@@ -77,21 +77,21 @@
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="前端" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="css" scheme="http://norhub.xyz/tags/css/"/>
+      <category term="css" scheme="http://norhub.com.cn/tags/css/"/>
     
-      <category term="html" scheme="http://norhub.xyz/tags/html/"/>
+      <category term="html" scheme="http://norhub.com.cn/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>CSS3加DIV的使用</title>
-    <link href="http://norhub.xyz/2020/10/31/CSS3%E5%8A%A0DIV%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/10/31/CSS3%E5%8A%A0DIV%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/10/31/CSS3%E5%8A%A0DIV%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/10/31/CSS3%E5%8A%A0DIV%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2020-10-31T10:31:59.000Z</published>
     <updated>2021-04-30T02:53:19.039Z</updated>
     
@@ -108,21 +108,21 @@
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="前端" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="css" scheme="http://norhub.xyz/tags/css/"/>
+      <category term="css" scheme="http://norhub.com.cn/tags/css/"/>
     
-      <category term="div" scheme="http://norhub.xyz/tags/div/"/>
+      <category term="div" scheme="http://norhub.com.cn/tags/div/"/>
     
   </entry>
   
   <entry>
     <title>Linux基础命令的使用</title>
-    <link href="http://norhub.xyz/2020/10/07/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/10/07/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/10/07/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/10/07/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2020-10-07T03:49:29.000Z</published>
     <updated>2021-05-13T01:58:35.038Z</updated>
     
@@ -148,19 +148,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
     
-      <category term="linux" scheme="http://norhub.xyz/tags/linux/"/>
+      <category term="linux" scheme="http://norhub.com.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>使用Docker安装常用数据库</title>
-    <link href="http://norhub.xyz/2020/09/07/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>http://norhub.xyz/2020/09/07/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <link href="http://norhub.com.cn/2020/09/07/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>http://norhub.com.cn/2020/09/07/%E4%BD%BF%E7%94%A8Docker%E5%AE%89%E8%A3%85%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
     <published>2020-09-07T08:51:05.000Z</published>
     <updated>2021-04-30T02:53:19.211Z</updated>
     
@@ -173,19 +173,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Docker" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
+      <category term="Docker" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
     
     
-      <category term="docker" scheme="http://norhub.xyz/tags/docker/"/>
+      <category term="docker" scheme="http://norhub.com.cn/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>Linux出现Read-onlyFileSystem错误的解决方法方法</title>
-    <link href="http://norhub.xyz/2020/09/01/Linux%E5%87%BA%E7%8E%B0Read-onlyFileSystem%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%96%B9%E6%B3%95/"/>
-    <id>http://norhub.xyz/2020/09/01/Linux%E5%87%BA%E7%8E%B0Read-onlyFileSystem%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%96%B9%E6%B3%95/</id>
+    <link href="http://norhub.com.cn/2020/09/01/Linux%E5%87%BA%E7%8E%B0Read-onlyFileSystem%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%96%B9%E6%B3%95/"/>
+    <id>http://norhub.com.cn/2020/09/01/Linux%E5%87%BA%E7%8E%B0Read-onlyFileSystem%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%96%B9%E6%B3%95/</id>
     <published>2020-09-01T06:10:57.000Z</published>
     <updated>2021-04-30T02:53:19.058Z</updated>
     
@@ -197,19 +197,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
     
-      <category term="linux" scheme="http://norhub.xyz/tags/linux/"/>
+      <category term="linux" scheme="http://norhub.com.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>CentOS7安装MySql</title>
-    <link href="http://norhub.xyz/2020/08/05/CentOS7%E5%AE%89%E8%A3%85MySql/"/>
-    <id>http://norhub.xyz/2020/08/05/CentOS7%E5%AE%89%E8%A3%85MySql/</id>
+    <link href="http://norhub.com.cn/2020/08/05/CentOS7%E5%AE%89%E8%A3%85MySql/"/>
+    <id>http://norhub.com.cn/2020/08/05/CentOS7%E5%AE%89%E8%A3%85MySql/</id>
     <published>2020-08-05T01:29:05.000Z</published>
     <updated>2021-04-30T02:53:19.053Z</updated>
     
@@ -224,23 +224,23 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
-      <category term="Centos" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Centos/"/>
+      <category term="Centos" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Centos/"/>
     
     
-      <category term="linux" scheme="http://norhub.xyz/tags/linux/"/>
+      <category term="linux" scheme="http://norhub.com.cn/tags/linux/"/>
     
-      <category term="centos" scheme="http://norhub.xyz/tags/centos/"/>
+      <category term="centos" scheme="http://norhub.com.cn/tags/centos/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu18安装Spark</title>
-    <link href="http://norhub.xyz/2020/07/21/Ubuntu18%E5%AE%89%E8%A3%85Spark/"/>
-    <id>http://norhub.xyz/2020/07/21/Ubuntu18%E5%AE%89%E8%A3%85Spark/</id>
+    <link href="http://norhub.com.cn/2020/07/21/Ubuntu18%E5%AE%89%E8%A3%85Spark/"/>
+    <id>http://norhub.com.cn/2020/07/21/Ubuntu18%E5%AE%89%E8%A3%85Spark/</id>
     <published>2020-07-21T03:17:21.000Z</published>
     <updated>2021-04-30T02:53:19.166Z</updated>
     
@@ -252,19 +252,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="大数据" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="spark" scheme="http://norhub.xyz/tags/spark/"/>
+      <category term="spark" scheme="http://norhub.com.cn/tags/spark/"/>
     
   </entry>
   
   <entry>
     <title>Python模块psutil库的使用</title>
-    <link href="http://norhub.xyz/2020/07/17/Python%E6%A8%A1%E5%9D%97psutil%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/07/17/Python%E6%A8%A1%E5%9D%97psutil%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/07/17/Python%E6%A8%A1%E5%9D%97psutil%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/07/17/Python%E6%A8%A1%E5%9D%97psutil%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2020-07-17T08:44:47.000Z</published>
     <updated>2021-04-30T02:53:19.132Z</updated>
     
@@ -275,21 +275,21 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Python" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
+      <category term="Python" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
     
     
-      <category term="python" scheme="http://norhub.xyz/tags/python/"/>
+      <category term="python" scheme="http://norhub.com.cn/tags/python/"/>
     
-      <category term="psutil" scheme="http://norhub.xyz/tags/psutil/"/>
+      <category term="psutil" scheme="http://norhub.com.cn/tags/psutil/"/>
     
   </entry>
   
   <entry>
     <title>精准电量[Accubattery]Pro直装破解专业版</title>
-    <link href="http://norhub.xyz/2020/07/15/%E7%B2%BE%E5%87%86%E7%94%B5%E9%87%8F-Accubattery-Pro%E7%9B%B4%E8%A3%85%E7%A0%B4%E8%A7%A3%E4%B8%93%E4%B8%9A%E7%89%88/"/>
-    <id>http://norhub.xyz/2020/07/15/%E7%B2%BE%E5%87%86%E7%94%B5%E9%87%8F-Accubattery-Pro%E7%9B%B4%E8%A3%85%E7%A0%B4%E8%A7%A3%E4%B8%93%E4%B8%9A%E7%89%88/</id>
+    <link href="http://norhub.com.cn/2020/07/15/%E7%B2%BE%E5%87%86%E7%94%B5%E9%87%8F-Accubattery-Pro%E7%9B%B4%E8%A3%85%E7%A0%B4%E8%A7%A3%E4%B8%93%E4%B8%9A%E7%89%88/"/>
+    <id>http://norhub.com.cn/2020/07/15/%E7%B2%BE%E5%87%86%E7%94%B5%E9%87%8F-Accubattery-Pro%E7%9B%B4%E8%A3%85%E7%A0%B4%E8%A7%A3%E4%B8%93%E4%B8%9A%E7%89%88/</id>
     <published>2020-07-15T09:56:59.000Z</published>
     <updated>2021-04-30T02:53:19.212Z</updated>
     
@@ -301,19 +301,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="软件分享" scheme="http://norhub.xyz/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+      <category term="软件分享" scheme="http://norhub.com.cn/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
     
-      <category term="安卓" scheme="http://norhub.xyz/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%AE%89%E5%8D%93/"/>
+      <category term="安卓" scheme="http://norhub.com.cn/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%AE%89%E5%8D%93/"/>
     
     
-      <category term="Android" scheme="http://norhub.xyz/tags/Android/"/>
+      <category term="Android" scheme="http://norhub.com.cn/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu18安装Hive2.3.7</title>
-    <link href="http://norhub.xyz/2020/07/08/Ubuntu18%E5%AE%89%E8%A3%85Hive/"/>
-    <id>http://norhub.xyz/2020/07/08/Ubuntu18%E5%AE%89%E8%A3%85Hive/</id>
+    <link href="http://norhub.com.cn/2020/07/08/Ubuntu18%E5%AE%89%E8%A3%85Hive/"/>
+    <id>http://norhub.com.cn/2020/07/08/Ubuntu18%E5%AE%89%E8%A3%85Hive/</id>
     <published>2020-07-08T09:26:29.000Z</published>
     <updated>2021-04-30T02:53:19.159Z</updated>
     
@@ -324,23 +324,23 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="大数据" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="ubuntu" scheme="http://norhub.xyz/tags/ubuntu/"/>
+      <category term="ubuntu" scheme="http://norhub.com.cn/tags/ubuntu/"/>
     
-      <category term="hdfs" scheme="http://norhub.xyz/tags/hdfs/"/>
+      <category term="hdfs" scheme="http://norhub.com.cn/tags/hdfs/"/>
     
-      <category term="hive" scheme="http://norhub.xyz/tags/hive/"/>
+      <category term="hive" scheme="http://norhub.com.cn/tags/hive/"/>
     
   </entry>
   
   <entry>
     <title>Docker部署Flask应用</title>
-    <link href="http://norhub.xyz/2020/07/08/Docker%E9%83%A8%E7%BD%B2Flask%E5%BA%94%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/07/08/Docker%E9%83%A8%E7%BD%B2Flask%E5%BA%94%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/07/08/Docker%E9%83%A8%E7%BD%B2Flask%E5%BA%94%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/07/08/Docker%E9%83%A8%E7%BD%B2Flask%E5%BA%94%E7%94%A8/</id>
     <published>2020-07-08T01:58:09.000Z</published>
     <updated>2021-04-30T02:53:19.056Z</updated>
     
@@ -351,23 +351,23 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Python" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
+      <category term="Python" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
     
     
-      <category term="docker" scheme="http://norhub.xyz/tags/docker/"/>
+      <category term="docker" scheme="http://norhub.com.cn/tags/docker/"/>
     
-      <category term="python" scheme="http://norhub.xyz/tags/python/"/>
+      <category term="python" scheme="http://norhub.com.cn/tags/python/"/>
     
-      <category term="flask" scheme="http://norhub.xyz/tags/flask/"/>
+      <category term="flask" scheme="http://norhub.com.cn/tags/flask/"/>
     
   </entry>
   
   <entry>
     <title>[转]Docker部署Zabbix+Grafana</title>
-    <link href="http://norhub.xyz/2020/05/23/%E8%BD%AC-Docker%E9%83%A8%E7%BD%B2Zabbix-Grafana/"/>
-    <id>http://norhub.xyz/2020/05/23/%E8%BD%AC-Docker%E9%83%A8%E7%BD%B2Zabbix-Grafana/</id>
+    <link href="http://norhub.com.cn/2020/05/23/%E8%BD%AC-Docker%E9%83%A8%E7%BD%B2Zabbix-Grafana/"/>
+    <id>http://norhub.com.cn/2020/05/23/%E8%BD%AC-Docker%E9%83%A8%E7%BD%B2Zabbix-Grafana/</id>
     <published>2020-05-23T04:13:43.000Z</published>
     <updated>2021-04-30T02:53:19.218Z</updated>
     
@@ -378,19 +378,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Docker" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
+      <category term="Docker" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
     
     
-      <category term="docker" scheme="http://norhub.xyz/tags/docker/"/>
+      <category term="docker" scheme="http://norhub.com.cn/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker常用命令</title>
-    <link href="http://norhub.xyz/2020/05/09/Docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
-    <id>http://norhub.xyz/2020/05/09/Docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <link href="http://norhub.com.cn/2020/05/09/Docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://norhub.com.cn/2020/05/09/Docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2020-05-09T12:09:22.000Z</published>
     <updated>2021-04-30T02:53:19.055Z</updated>
     
@@ -402,19 +402,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Docker" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
+      <category term="Docker" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Docker/"/>
     
     
-      <category term="docker" scheme="http://norhub.xyz/tags/docker/"/>
+      <category term="docker" scheme="http://norhub.com.cn/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu19.10编程工作站配置</title>
-    <link href="http://norhub.xyz/2020/04/16/Ubuntu19-10%E7%BC%96%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%AB%99%E9%85%8D%E7%BD%AE/"/>
-    <id>http://norhub.xyz/2020/04/16/Ubuntu19-10%E7%BC%96%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%AB%99%E9%85%8D%E7%BD%AE/</id>
+    <link href="http://norhub.com.cn/2020/04/16/Ubuntu19-10%E7%BC%96%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%AB%99%E9%85%8D%E7%BD%AE/"/>
+    <id>http://norhub.com.cn/2020/04/16/Ubuntu19-10%E7%BC%96%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%AB%99%E9%85%8D%E7%BD%AE/</id>
     <published>2020-04-16T03:31:30.000Z</published>
     <updated>2021-04-30T02:53:19.168Z</updated>
     
@@ -426,21 +426,21 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
-      <category term="Ubuntu" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
+      <category term="Ubuntu" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
     
     
-      <category term="ubuntu" scheme="http://norhub.xyz/tags/ubuntu/"/>
+      <category term="ubuntu" scheme="http://norhub.com.cn/tags/ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Hexo博客搭建</title>
-    <link href="http://norhub.xyz/2020/04/15/Hexo%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA/"/>
-    <id>http://norhub.xyz/2020/04/15/Hexo%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA/</id>
+    <link href="http://norhub.com.cn/2020/04/15/Hexo%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA/"/>
+    <id>http://norhub.com.cn/2020/04/15/Hexo%E5%8D%9A%E5%AE%A2%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA/</id>
     <published>2020-04-15T06:19:06.000Z</published>
     <updated>2021-04-30T02:53:19.057Z</updated>
     
@@ -456,19 +456,19 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="其他" scheme="http://norhub.xyz/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="http://norhub.com.cn/categories/%E5%85%B6%E4%BB%96/"/>
     
-      <category term="Hexo" scheme="http://norhub.xyz/categories/%E5%85%B6%E4%BB%96/Hexo/"/>
+      <category term="Hexo" scheme="http://norhub.com.cn/categories/%E5%85%B6%E4%BB%96/Hexo/"/>
     
     
-      <category term="hexo" scheme="http://norhub.xyz/tags/hexo/"/>
+      <category term="hexo" scheme="http://norhub.com.cn/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Oracle导入导出工具使用</title>
-    <link href="http://norhub.xyz/2020/04/15/Oracle%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/"/>
-    <id>http://norhub.xyz/2020/04/15/Oracle%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://norhub.com.cn/2020/04/15/Oracle%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/"/>
+    <id>http://norhub.com.cn/2020/04/15/Oracle%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</id>
     <published>2020-04-15T06:07:07.000Z</published>
     <updated>2021-04-30T02:53:19.125Z</updated>
     
@@ -479,23 +479,23 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="数据库" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-      <category term="Oracle" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/"/>
+      <category term="Oracle" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/"/>
     
     
-      <category term="数据库" scheme="http://norhub.xyz/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="http://norhub.com.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-      <category term="oracle" scheme="http://norhub.xyz/tags/oracle/"/>
+      <category term="oracle" scheme="http://norhub.com.cn/tags/oracle/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu16.04命令行方式安Matlab</title>
-    <link href="http://norhub.xyz/2020/04/15/Ubuntu16-04%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%96%B9%E5%BC%8F%E5%AE%89%E8%A3%85matlab/"/>
-    <id>http://norhub.xyz/2020/04/15/Ubuntu16-04%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%96%B9%E5%BC%8F%E5%AE%89%E8%A3%85matlab/</id>
+    <link href="http://norhub.com.cn/2020/04/15/Ubuntu16-04%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%96%B9%E5%BC%8F%E5%AE%89%E8%A3%85matlab/"/>
+    <id>http://norhub.com.cn/2020/04/15/Ubuntu16-04%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%96%B9%E5%BC%8F%E5%AE%89%E8%A3%85matlab/</id>
     <published>2020-04-15T06:02:43.000Z</published>
     <updated>2021-04-30T02:53:19.137Z</updated>
     
@@ -506,25 +506,25 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
-      <category term="Ubuntu" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
+      <category term="Ubuntu" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
     
-      <category term="Matlab" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Matlab/"/>
+      <category term="Matlab" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Matlab/"/>
     
     
-      <category term="ubuntu" scheme="http://norhub.xyz/tags/ubuntu/"/>
+      <category term="ubuntu" scheme="http://norhub.com.cn/tags/ubuntu/"/>
     
-      <category term="matlab" scheme="http://norhub.xyz/tags/matlab/"/>
+      <category term="matlab" scheme="http://norhub.com.cn/tags/matlab/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu部署Flask+gunicorn</title>
-    <link href="http://norhub.xyz/2020/04/15/Ubuntu%E9%83%A8%E7%BD%B2Flask-gunicorn/"/>
-    <id>http://norhub.xyz/2020/04/15/Ubuntu%E9%83%A8%E7%BD%B2Flask-gunicorn/</id>
+    <link href="http://norhub.com.cn/2020/04/15/Ubuntu%E9%83%A8%E7%BD%B2Flask-gunicorn/"/>
+    <id>http://norhub.com.cn/2020/04/15/Ubuntu%E9%83%A8%E7%BD%B2Flask-gunicorn/</id>
     <published>2020-04-15T05:56:15.000Z</published>
     <updated>2021-04-30T02:53:19.205Z</updated>
     
@@ -537,22 +537,22 @@ tab键: 自动补全
     </summary>
     
     
-      <category term="程序开发" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
+      <category term="程序开发" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Linux" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
+      <category term="Linux" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/"/>
     
-      <category term="Python" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
+      <category term="Python" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Python/"/>
     
-      <category term="Ubuntu" scheme="http://norhub.xyz/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
+      <category term="Ubuntu" scheme="http://norhub.com.cn/categories/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/Linux/Ubuntu/"/>
     
     
-      <category term="python" scheme="http://norhub.xyz/tags/python/"/>
+      <category term="python" scheme="http://norhub.com.cn/tags/python/"/>
     
-      <category term="flask" scheme="http://norhub.xyz/tags/flask/"/>
+      <category term="flask" scheme="http://norhub.com.cn/tags/flask/"/>
     
-      <category term="ubuntu" scheme="http://norhub.xyz/tags/ubuntu/"/>
+      <category term="ubuntu" scheme="http://norhub.com.cn/tags/ubuntu/"/>
     
-      <category term="gunicorn" scheme="http://norhub.xyz/tags/gunicorn/"/>
+      <category term="gunicorn" scheme="http://norhub.com.cn/tags/gunicorn/"/>
     
   </entry>
   

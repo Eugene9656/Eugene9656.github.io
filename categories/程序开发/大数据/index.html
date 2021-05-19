@@ -24,7 +24,7 @@
 
   <!-- 页面元数据 -->
   
-  <title>Category: 大数据 - Rnazoroのblog</title>
+  <title>分类：大数据 - Rnazoroのblog</title>
   
 
   
@@ -790,7 +790,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <div>
           <a class='readmore' href='/2020/07/21/Ubuntu18%E5%AE%89%E8%A3%85Spark/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -834,7 +834,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <div>
           <a class='readmore' href='/2020/07/08/Ubuntu18%E5%AE%89%E8%A3%85Hive/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -879,7 +879,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <div>
           <a class='readmore' href='/2019/12/17/Ubuntu18%E5%92%8CCentos7%E4%B8%8B%E7%9A%84Hadoop2-6-5%E9%9B%86%E7%BE%A4%E5%92%8C%E4%BC%AA%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/'>
-            Read More
+            阅读全文
           </a>
         </div>
       
@@ -1200,7 +1200,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
     
       
-        <div><p>Blog content follows the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License</a></p>
+        <div><p>博客内容遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</a></p>
 </div>
       
     
@@ -1212,9 +1212,9 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
     
       
-        Use
+        本站使用
         <a href="https://github.com/volantis-x/hexo-theme-volantis/tree/4.3.1" target="_blank" class="codename">Volantis</a>
-        as theme
+        作为主题
       
     
       
@@ -1752,7 +1752,7 @@ volantis.pjax.push(()=>{
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'http://norhub.xyz' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'http://norhub.com.cn' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -1770,7 +1770,7 @@ volantis.pjax.push(()=>{
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'http://norhub.xyz' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'http://norhub.com.cn' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -1792,7 +1792,7 @@ volantis.pjax.push(()=>{
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'http://norhub.xyz' + pv.getAttribute('data-path');
+          var url = 'http://norhub.com.cn' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增
